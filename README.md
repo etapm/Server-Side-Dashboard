@@ -13,7 +13,7 @@ I built a weather dashboard to practice my new coding knowledge and have a tool 
 
 ## Installation
 
-Review the code on the GitHub repository. The deployed site can be accessed at [GitHub Pages]() or by visiting the [GitHub Repository](https://github.com/etapm/Server-Side-Dashboard)
+Review the code on the GitHub repository. The deployed site can be accessed at [GitHub Pages](https://etapm.github.io/Server-Side-Dashboard/) or by visiting the [GitHub Repository](https://github.com/etapm/Server-Side-Dashboard)
 
 ## Usage
 
